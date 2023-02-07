@@ -7,5 +7,5 @@
   "printWidth": 140,
   "proseWrap": "always",
   "useTabs": false,
-  "arrowParents": "avoid"
+  "arrowParens": "avoid"
 }
